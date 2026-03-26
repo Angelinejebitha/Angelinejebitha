@@ -2,7 +2,7 @@
 
 🎯 Aspiring Data Analyst | HR Analytics Enthusiast  
 
-💼 3+ years experience in Human Resources (Recruitment & Data Handling)
+💼 3+ years experience in Human Resource (Recruitment & Data Handling)
 
 📊 Passionate about turning data into meaningful insights
 
