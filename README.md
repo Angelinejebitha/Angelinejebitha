@@ -16,7 +16,7 @@
 
 **Employee Attendance Analysis** 
 - Analyzed employee attendance data to identify trends and patterns
-- Built an interactive dashboard to track employee presence %
+- Built an interactive dashboard to track employee attendance for 3 months
 - Generated insights to support HR decision-making
 
 
