@@ -2,8 +2,7 @@
 
 🎯 Aspiring Data Analyst | HR Analytics Enthusiast  
 
-💼 3+ years experience in Human Resources (Recruitment & Data Handling) 
-
+💼 3+ years experience in Human Resources (Recruitment & Data Handling)
 📊 Passionate about turning data into meaningful insights
 
 **🔧 Skills & Tools**
@@ -13,6 +12,7 @@
 - **Data Techniques**: Data Cleaning, EDA, Data Transformation
 
 **📁 Projects**
+
 **Employee Attendance Analysis** 
 - Analyzed employee attendance data to identify trends and patterns
 - Built an interactive dashboard to track employee presence %
