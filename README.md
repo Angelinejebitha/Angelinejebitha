@@ -19,6 +19,7 @@
 - Built an interactive dashboard to track employee attendance for 3 months
 - Generated insights to support HR decision-making
 
+[View Project] (https://github.com/Angelinejebitha/employee-attendance-analysis)
 
 
 **Personal Finance Dashboard**
