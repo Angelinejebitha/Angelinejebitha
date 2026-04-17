@@ -8,13 +8,19 @@
 
 **⚙️💻 Skills & Tools**
 
+**Technical Skills**
 - **Data Visualization**: Power BI, Dashboarding
-- **Data Analysis**: Data Cleaning, Data Transformation, Exploratory Data Analysis (EDA)
-- **Programming**: Python (Pandas, NumPy)
-- **Database**: SQL (MySQL – Intermediate)
-- **Tools**: Power Query, Excel (Pivot Tables, VLOOKUP, Data Cleaning)
+- **Data Analysis**: Data Cleaning (Wrangling), Data Transformation, Exploratory Data Analysis (EDA), Insight Generation
+- **Programming**: Python (Pandas, NumPy, Matplotlib)
+- **Database**: SQL (MySQL)
+- **Data Preparation**: Power Query
 - **DAX**: KPI Measures, Calculated Columns, Aggregations
 
+**Soft Skills**
+- Analytical Thinking
+- Problem Solving
+- Communication
+- Attention to Detail
 
 **📁 Projects**
 
@@ -24,7 +30,7 @@
 - Visualized trends in attendance, remote work, and absenteeism patterns
 - Performed employee-level and day-wise analysis to identify workforce behavior
 - Extracted insights to support HR decision-making and workforce planning
-**Tools**: Power BI, DAX, Data Cleaning, Power Query
+**Tools**: Power BI, DAX, Data Wrangling, Power Query
 **GitHub**: https://github.com/Angelinejebitha/employee-attendance-analysis 
 
 
@@ -34,8 +40,11 @@
 - Developed DAX measures such as Total Income, Total Expense, Net Savings, Spending Ratio, and Savings Rate
 - Designed visualizations to track income vs expense trends, monthly savings patterns, and category-wise expense distribution
 - Identified key insights such as high-spending categories and low-savings periods
-- Built an end-to-end data pipeline from raw Excel data to an interactive dashboard
-**Tools**: Power BI, DAX, Power Query, Data Preparation
+- Performed data aggregation and validation using SQL (GROUP BY, CASE WHEN, filtering) to verify dashboard KPIs
+- Conducted exploratory data analysis using Python (Pandas, NumPy, Matplotlib) to identify spending patterns and trends
+- Validated financial metrics across SQL, Python, and Power BI to ensure data consistency and accuracy
+- Built an end-to-end analytics workflow from data cleaning (Power Query) to analysis (SQL/Python) and visualization (Power BI)
+**Tools**: Power BI, DAX, Power Query, SQL (MySQL), Python (Pandas, NumPy, Matplotlib)
 **GitHub**: https://github.com/Angelinejebitha/financial-behavior---expense-analysis 
 
 
