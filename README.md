@@ -31,7 +31,9 @@
 - Performed employee-level and day-wise analysis to identify workforce behavior
 - Extracted insights to support HR decision-making and workforce planning
 - Prepare structured MIS report and KPI summaries to support operational monitoring and business reporting.
-**Tools**: Power BI, DAX, Data Wrangling, Power Query, Excel, Dashboard Reporting , MIS Reporting
+
+**Tools**: Excel, Power BI, DAX, Data Wrangling, Power Query
+
 **GitHub**: https://github.com/Angelinejebitha/employee-attendance-analysis 
 
 
@@ -45,7 +47,9 @@
 - Conducted exploratory data analysis using Python (Pandas, NumPy, Matplotlib) to identify spending patterns and trends
 - Validated financial metrics across SQL, Python, and Power BI to ensure data consistency and accuracy
 - Built an end-to-end analytics workflow from data cleaning (Power Query) to analysis (SQL/Python) and visualization (Power BI)
-**Tools**: Power BI, DAX, Power Query, SQL (MySQL), Python (Pandas, NumPy, Matplotlib)
+
+**Tools**: Excel, Power BI, DAX, Power Query, SQL (MySQL), Python (Pandas, NumPy, Matplotlib)
+
 **GitHub**: https://github.com/Angelinejebitha/financial-behavior---expense-analysis 
 
 
@@ -54,4 +58,4 @@
 - GitHub: https://github.com/Angelinejebitha
 
 
-I am actively seeking opportunities as a Data Analyst / HR Analyst
+I am actively seeking opportunities as a HR Analyst
