@@ -30,7 +30,8 @@
 - Visualized trends in attendance, remote work, and absenteeism patterns
 - Performed employee-level and day-wise analysis to identify workforce behavior
 - Extracted insights to support HR decision-making and workforce planning
-**Tools**: Power BI, DAX, Data Wrangling, Power Query
+- Prepare structured MIS report and KPI summaries to support operational monitoring and business reporting.
+**Tools**: Power BI, DAX, Data Wrangling, Power Query, Excel, Dashboard Reporting , MIS Reporting
 **GitHub**: https://github.com/Angelinejebitha/employee-attendance-analysis 
 
 
