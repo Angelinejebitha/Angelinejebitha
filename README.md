@@ -1,6 +1,6 @@
 ## Hi, I'm Angeline Jebitha 👋
 
-🎯 Aspiring Data Analyst | HR Analytics Enthusiast  
+🎯 Aspiring HR Analyst 
 
 💼 3+ years experience in Human Resource (Recruitment & Data Handling)
 
